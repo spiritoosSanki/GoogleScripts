@@ -1,2 +1,2 @@
 # GoogleScripts
-Google scripts make life easier
+Google scripts to make life easier
